@@ -6,3 +6,7 @@
     grid-area: h;
     background-color: green;
 }
+
+.loginBlock {
+    float: right;
+}
